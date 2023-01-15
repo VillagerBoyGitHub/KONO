@@ -10,3 +10,32 @@ body {
     font-family: Roboto;
     src: url(../fonts/Roboto.ttf);
 }
+
+a {
+    text-decoration: none;
+    color: #23de36;
+    transition: all 0.5s cubic-bezier(0, -0.07, 0, 0.91);
+}
+
+a:hover {
+    color: #fff;
+}
+
+.vboy-buttons {
+    color: #23de36;
+    background-color: #3023de;
+    border-radius: 100px;
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    transition: all 0.5s cubic-bezier(0, -0.07, 0, 0.91);
+}
+
+.vboy-buttons:hover {
+    background-color: #05d8e3;
+    color: #000;
+}
+
+.vboy-buttons:hover {
+    background-color: #001ccf;
+    color: #fff;
+}
