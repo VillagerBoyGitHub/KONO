@@ -4,10 +4,8 @@ body {
     font-size: 35px;
     background-color: #0f0f0f;
 }
-
 p {
-    
-    color: white;
+    color: #fff;
 }
 
 @font-face {
