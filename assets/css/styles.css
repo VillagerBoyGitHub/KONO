@@ -10,7 +10,7 @@ body {
     border-radius: 100px;
     padding: 10px;
     transition: all 0.5s cubic-bezier(0, -0.07, 0, 0.91);
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .vboy-buttons:hover {
