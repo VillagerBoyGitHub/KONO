@@ -34,11 +34,6 @@ a:hover {
 }
 
 .vboy-buttons:hover {
-    background-color: #05d8e3;
-    color: #000;
-}
-
-.vboy-buttons:hover {
     background-color: #001ccf;
     color: #fff;
 }
